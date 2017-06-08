@@ -1,0 +1,148 @@
+.sx-page .ivu-page-item-jump-next,
+  .sx-page .ivu-page-item-jump-prev,
+  .sx-page .ivu-page-next {
+    border-radius: 0;
+    margin-right: 0;
+  }
+  
+  .sx-page .ivu-page-prev {
+    border-radius: 0;
+  }
+  
+  .sx-page .ivu-page-item {
+    margin-right: 0;
+    border-radius: 0px;
+  }
+  
+  .sx-page .ivu-page-item:hover {
+    border-color: #f57403;
+  }
+  
+  .sx-page .ivu-page-item-active {
+    background-color: #f57403;
+    border-color: #f57403;
+  }
+  
+  .sx-page .ivu-page-item:hover a {
+    color: #f57403;
+  }
+  
+  .sx-page .ivu-page-next:hover,
+  .sx-page .ivu-page-prev:hover {
+    border-color: #f57403;
+  }
+  
+  .sx-page .ivu-page-next:hover a,
+  .sx-page .ivu-page-prev:hover a,
+  .sx-page .ivu-page-item-jump-next:hover a,
+  .sx-page .ivu-page-item-jump-prev a {
+    color: #f57403;
+  }
+  
+  .sx-page .ivu-page-options-elevator input {
+    border-radius: 0px;
+  }
+  
+  .sx-tabs {
+    margin-top: 17px;
+  }
+  
+  .sx-tabs>.ivu-tabs-card>.ivu-tabs-content {}
+  
+  .sx-tabs .ivu-tabs-nav {
+    padding-left: 20px;
+  }
+  
+  .sx-tabs>.ivu-tabs-card>.ivu-tabs-content>.ivu-tabs-tabpane {
+    padding: 5px;
+  }
+  
+  .sx-tabs>.ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-nav-container {
+    height: 49px;
+  }
+  
+  .sx-tabs>.ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab {
+    width: 160px;
+    height: 48px;
+    font-size: 24px;
+    color: #666666;
+    margin-right: 15px;
+    text-align: center;
+  }
+  
+  .sx-tabs>.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab-active {
+    color: #f57403!important;
+  }
+  
+  .sx-tabs .page {
+    margin: 40px 0 30px 0;
+  }
+     .sx-page .ivu-page-item-jump-next,
+    .ivu-page-item-jump-prev,
+    .ivu-page-next {
+        border-radius: 0;
+        margin-right: 0;
+    }
+    
+    .sx-page .ivu-page-prev {
+        border-radius: 0;
+    }
+    
+    .sx-page .ivu-page-item {
+        margin-right: 0;
+        border-radius: 0px;
+    }
+    
+    .sx-page .ivu-page-item:hover {
+        border-color: #f57403;
+    }
+    
+    .sx-page .ivu-page-item-active {
+        background-color: #f57403;
+        border-color: #f57403;
+    }
+    
+    .sx-page .ivu-page-item:hover a {
+        color: #f57403;
+    }
+    
+    .sx-page .ivu-page-next:hover,
+    .sx-page .ivu-page-prev:hover {
+        border-color: #f57403;
+    }
+    
+    .sx-page .ivu-page-next:hover a,
+    .sx-page .ivu-page-prev:hover a,
+    .sx-page .ivu-page-item-jump-next:hover a,
+    .sx-page .ivu-page-item-jump-prev a {
+        color: #f57403;
+    }
+    
+    .sx-page .ivu-page-options-elevator input {
+        border-radius: 0px;
+    }
+    .sx-tabs>.ivu-tabs-card>.ivu-tabs-content {}
+    
+    .sx-tabs .ivu-tabs-nav {
+        padding-left: 20px;
+    }
+    .sx-tabs>.ivu-tabs-card>.ivu-tabs-content>.ivu-tabs-tabpane {
+        padding: 5px;
+    }
+    .sx-tabs>.ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-nav-container {
+        height: 49px;
+    }
+    .sx-tabs>.ivu-tabs.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab {
+        width: 160px;
+        height: 48px;
+        font-size: 24px;
+        color: #666666;
+        margin-right: 15px;
+        text-align: center;
+    }
+    .sx-tabs>.ivu-tabs-card>.ivu-tabs-bar .ivu-tabs-tab-active {
+        color: #f57403!important;
+    }
+    .sx-tabs .page {
+        margin: 40px 0 30px 0;
+    }
